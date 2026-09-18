@@ -1,23 +1,6 @@
-<div align="center">
-
 # 👋 Hey, I'm Jay
 
 ### 🎓 Engineering Student • Data Science • AI/ML • Future Builder
-
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
-</div>
 
 ---
 
@@ -28,81 +11,69 @@
 * 💻 Building projects with **Python, SQL, JavaScript and modern web technologies**
 * 🧠 Currently improving **DSA, DBMS, Python and Machine Learning**
 * ☁️ Exploring **Cloud, DevOps and AI deployment**
-* 🛠️ I like turning ideas into real projects
-* 🎯 Goal: build strong technical skills and eventually create my own technology/business ventures
+* 🛠️ I enjoy turning ideas into real-world projects
+* 🎯 Goal: Build strong technical skills and create my own technology products
 
 ---
 
 # 🛠️ Tech Arsenal
 
-<table>
-<tr>
+### 🐍 Programming Languages
 
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 Frontend Universe</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-</td>
+### 📊 Data Science Tools & Libraries
 
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 AI/ML & Data Science</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-</td>
+### 🤖 Machine Learning & Deep Learning
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">⚙️ Backend & Database</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql,mongodb,postgresql" />
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white" />
 </p>
 
-</td>
+### 📓 Data Science Environment
 
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+### 🗄️ Database & Data
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vercel" />
 </p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<h3 align="center">📱 Tools & Development Environment</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,git,bash,anaconda,postman" />
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -132,8 +103,10 @@
 
 ```text
 Python                 ████████████████████░░  85%
+NumPy & Pandas         ███████████████████░░░  80%
 SQL & DBMS             █████████████████░░░░░  75%
 Data Structures        ███████████████░░░░░░░  65%
+Data Visualization     ███████████████░░░░░░░  65%
 Machine Learning       █████████████░░░░░░░░░  60%
 Deep Learning          ██████████░░░░░░░░░░░░  45%
 Cloud & DevOps         ████████░░░░░░░░░░░░░░  40%
@@ -157,19 +130,19 @@ Cloud & DevOps         ████████░░░░░░░░░░░
 
 ### 📈 Data Analytics
 
-> Turning raw data into useful insights using Python, Pandas, NumPy and SQL.
+> Turning raw data into useful insights using **Python, Pandas, NumPy, Matplotlib, Seaborn and SQL**.
 
 ---
 
 # 🏆 Goals
 
-* [ ] Become highly skilled in **Data Science & AI**
-* [ ] Master **DSA + problem solving**
-* [ ] Build **10+ serious portfolio projects**
-* [ ] Contribute to **Open Source**
-* [ ] Get strong industry experience
-* [ ] Build and launch my own technology products
-* [ ] Keep learning every single day 🚀
+* Become highly skilled in **Data Science & AI**
+* Master **DSA + problem solving**
+* Build **10+ serious portfolio projects**
+* Contribute to **Open Source**
+* Get strong industry experience
+* Build and launch my own technology products
+* Keep learning every single day 🚀
 
 ---
 

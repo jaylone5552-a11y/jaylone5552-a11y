@@ -22,7 +22,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🐍 Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
@@ -32,7 +32,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Data Science</h3>
+<h3 align="center"> Data Science</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -56,7 +56,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 Machine Learning</h3>
+<h3 align="center"> Machine Learning</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -77,7 +77,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">📓 Data Science Environment</h3>
+<h3 align="center"> Data Science Environment</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -107,7 +107,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center"> Web Development</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
@@ -121,7 +121,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h3 align="center"> Cloud & DevOps</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vercel" />
@@ -131,7 +131,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔧 Developer Tools</h3>
+<h3 align="center"> Developer Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,postman" />

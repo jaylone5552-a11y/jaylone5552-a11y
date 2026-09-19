@@ -23,10 +23,10 @@
 <td width="50%" valign="top">
 
 <h3 align="center">Programming Languages</h3>
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>

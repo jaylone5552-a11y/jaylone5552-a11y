@@ -111,10 +111,15 @@
 <h3 align="center"> Web Development</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=flask,django" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 </p>
 
 </td>
+
 
 </tr>
 

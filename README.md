@@ -1,5 +1,5 @@
 ````markdown
-# Hey, I'm Jay Lone
+# 👋 Hey, I'm Jay Lone
 
 ### 🎓 Engineering Student • Data Science • ML
 
@@ -25,7 +25,7 @@
 <td width="50%" valign="top">
 
 <h3 align="center">Programming Languages</h3>
-<br>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 </td>
@@ -120,22 +120,18 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white" />
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
 
 </td>
@@ -172,11 +168,9 @@
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
@@ -191,7 +185,7 @@ Data Visualization     ███████████████░░░░
 Machine Learning       █████████████░░░░░░░░░  60%
 Deep Learning          ██████████░░░░░░░░░░░░  45%
 Cloud & DevOps         ████████░░░░░░░░░░░░░░  40%
-Web Development        ████████████░░░░░░░░░░  55%
+Web Development        ███████████░░░░░░░░░░░  55%
 ````
 
 ---
@@ -257,10 +251,6 @@ Web Development        ████████████░░░░░░░
 </div>
 ```
 
-Replace these three placeholders with your actual details:
+**Important:** In GitHub, paste only the content **inside the code block** into your `README.md`. Don't paste the opening/closing ` ```markdown ` lines themselves.
 
-* `YOUR_GITHUB_USERNAME`
-* `YOUR_LINKEDIN_USERNAME`
-* `YOUR_EMAIL@example.com`
-
-I also added **FastAPI, Flask, Django, REST API, Jinja, Uvicorn, Gunicorn, Pydantic, and SQLAlchemy** to make the Python web-development section much stronger.
+Also change `YOUR_GITHUB_USERNAME` to your actual GitHub username.

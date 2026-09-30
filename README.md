@@ -1,3 +1,4 @@
+````markdown
 # Hey, I'm Jay Lone
 
 ### 🎓 Engineering Student • Data Science • ML
@@ -6,15 +7,16 @@
 
 ## 🚀 About Me
 
-* 🎓 Engineering student specializing in **Data Science**
-* 🤖 Learning **Machine Learning & Data Science**
-* 💻 Building projects with **Python, SQL, JavaScript and modern web technologies**
-* 🧠 Currently improving **DSA, DBMS, Python and Machine Learning**
-* ☁️ Exploring **Cloud, DevOps, LLMs and AI deployment**
-* 🛠️ I enjoy turning ideas into real-world projects
-* 🎯 Goal: Build strong technical skills and create my own technology products
+- 🎓 Engineering student specializing in **Data Science**
+- 🤖 Learning **Machine Learning & Data Science**
+- 💻 Building projects with **Python, SQL, JavaScript and modern web technologies**
+- 🧠 Currently improving **DSA, DBMS, Python and Machine Learning**
+- ☁️ Exploring **Cloud, DevOps, LLMs and AI deployment**
+- 🛠️ I enjoy turning ideas into real-world projects
+- 🎯 Goal: Build strong technical skills and create my own technology products
 
 ---
+
 # 🛠️ Tech Arsenal
 
 <table>
@@ -24,7 +26,6 @@
 
 <h3 align="center">Programming Languages</h3>
 <br>
-<br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
@@ -33,7 +34,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center"> Data Science</h3>
+<h3 align="center">Data Science</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -46,7 +47,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
 </td>
@@ -57,7 +58,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center"> Machine Learning</h3>
+<h3 align="center">Machine Learning</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -78,7 +79,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center"> Data Science Environment</h3>
+<h3 align="center">Data Science Environment</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -104,9 +105,12 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
+
 </td>
 
-```html
 <td width="50%" valign="top">
 
 <h3 align="center">🌐 Web Development</h3>
@@ -130,16 +134,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
 
 </td>
-```
-
-This adds **FastAPI, Flask, Django, Jinja, REST APIs, Uvicorn, Gunicorn, SQLAlchemy, and Pydantic** — a solid Python web-development stack for your profile.
-
-
 
 </tr>
 
@@ -147,7 +146,7 @@ This adds **FastAPI, Flask, Django, Jinja, REST APIs, Uvicorn, Gunicorn, SQLAlch
 
 <td width="50%" valign="top">
 
-<h3 align="center"> Cloud & DevOps</h3>
+<h3 align="center">☁️ Cloud & DevOps</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,vercel" />
@@ -157,7 +156,7 @@ This adds **FastAPI, Flask, Django, Jinja, REST APIs, Uvicorn, Gunicorn, SQLAlch
 
 <td width="50%" valign="top">
 
-<h3 align="center"> Developer Tools</h3>
+<h3 align="center">🛠️ Developer Tools</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,postman" />
@@ -166,7 +165,10 @@ This adds **FastAPI, Flask, Django, Jinja, REST APIs, Uvicorn, Gunicorn, SQLAlch
 </td>
 
 </tr>
+
 </table>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -189,7 +191,8 @@ Data Visualization     ███████████████░░░░
 Machine Learning       █████████████░░░░░░░░░  60%
 Deep Learning          ██████████░░░░░░░░░░░░  45%
 Cloud & DevOps         ████████░░░░░░░░░░░░░░  40%
-```
+Web Development        ████████████░░░░░░░░░░  55%
+````
 
 ---
 
@@ -201,7 +204,7 @@ Cloud & DevOps         ████████░░░░░░░░░░░
 
 ### 🌐 Web Development
 
-> Full-stack and frontend projects focused on clean UI and useful real-world applications.
+> Full-stack and backend projects using **Python, FastAPI, Flask, Django, REST APIs and modern web technologies**.
 
 ### 🧠 AI Experiments
 
@@ -252,3 +255,12 @@ Cloud & DevOps         ████████░░░░░░░░░░░
 ⭐ **If you like my work, consider giving my repositories a star!**
 
 </div>
+```
+
+Replace these three placeholders with your actual details:
+
+* `YOUR_GITHUB_USERNAME`
+* `YOUR_LINKEDIN_USERNAME`
+* `YOUR_EMAIL@example.com`
+
+I also added **FastAPI, Flask, Django, REST API, Jinja, Uvicorn, Gunicorn, Pydantic, and SQLAlchemy** to make the Python web-development section much stronger.

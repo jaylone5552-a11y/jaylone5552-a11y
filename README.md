@@ -106,19 +106,39 @@
 
 </td>
 
+```html
 <td width="50%" valign="top">
 
-<h3 align="center"> Web Development</h3>
+<h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,django" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 </p>
 
 </td>
+```
+
+This adds **FastAPI, Flask, Django, Jinja, REST APIs, Uvicorn, Gunicorn, SQLAlchemy, and Pydantic** — a solid Python web-development stack for your profile.
+
 
 
 </tr>

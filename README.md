@@ -1,6 +1,6 @@
 # Hey, I'm Jay Lone
 
-### 🎓 Engineering Student • Data Science • ML
+### 🎓 Engineering Student • Data Science • ML • DP • NLP •MLOPs
 
 ---
 

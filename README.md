@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jay Lone
+# Hey, I'm Jay Lone
 
 ### 🎓 Engineering Student • Data Science • ML
 
@@ -8,10 +8,9 @@
 
 - 🎓 Engineering student specializing in **Data Science**
 - 🤖 Learning **Machine Learning & Data Science**
-- 💻 Building projects with **Python, SQL, JavaScript and modern web technologies**
-- 🧠 Currently improving **DSA, DBMS, Python and Machine Learning**
+- 💻 Building projects with **Python, SQL, DBMS
+- 🧠 Currently improving ML,,DP,NPL,LLMs,MLOPS.
 - ☁️ Exploring **Cloud, DevOps, LLMs and AI deployment**
-- 🛠️ I enjoy turning ideas into real-world projects
 - 🎯 Goal: Build strong technical skills and create my own technology products
 
 ---
